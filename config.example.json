@@ -1,0 +1,10 @@
+{
+  "rongcloud": {
+    "appKey": "YOUR_APP_KEY",
+    "appSecret": "YOUR_APP_SECRET"
+  },
+  "tencentIM": {
+    "sdkAppId": "YOUR_SDKAPPID",
+    "secretKey": "YOUR_SECRET"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "im",
+  "version": "1.0.0",
+  "description": "即时通讯接口，包含目前主流的容云以及tim，更新配置文件后即可使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
